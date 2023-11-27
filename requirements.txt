@@ -1,0 +1,17 @@
+asgiref==3.7.2
+crispy-bootstrap5==0.7
+distlib==0.3.7
+Django==4.2.6
+django-crispy-forms==2.1
+djangorestframework==3.14.0
+filelock==3.13.1
+Pillow==10.1.0
+platformdirs==3.11.0
+PySide6==6.6.0
+PySide6-Addons==6.6.0
+PySide6-Essentials==6.6.0
+pytz==2023.3.post1
+shiboken6==6.6.0
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.24.6
